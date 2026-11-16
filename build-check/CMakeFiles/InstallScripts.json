@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/george/George2_0/OS-Control-Center/build-check/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,19 @@
+[  0%] Built target os_control_center_autogen_timestamp_deps
+[  4%] Automatic MOC and UIC for target os_control_center
+[  4%] Built target os_control_center_autogen
+[  9%] Building CXX object CMakeFiles/os_control_center.dir/MainWindow.cpp.o
+[ 14%] Building CXX object CMakeFiles/os_control_center.dir/os_control_center_autogen/mocs_compilation.cpp.o
+[ 19%] Building CXX object CMakeFiles/os_control_center.dir/ipc/IPCManager.cpp.o
+[ 23%] Linking CXX executable os_control_center
+[ 52%] Built target os_control_center
+[ 52%] Built target os-control-ipc-child_autogen_timestamp_deps
+[ 57%] Automatic MOC and UIC for target os-control-ipc-child
+[ 57%] Built target os-control-ipc-child_autogen
+[ 61%] Building CXX object CMakeFiles/os-control-ipc-child.dir/os-control-ipc-child_autogen/mocs_compilation.cpp.o
+[ 66%] Building CXX object CMakeFiles/os-control-ipc-child.dir/ipc/IPCChild.cpp.o
+[ 71%] Linking CXX executable os-control-ipc-child
+[ 76%] Built target os-control-ipc-child
+[ 76%] Built target os-control-helper_autogen_timestamp_deps
+[ 80%] Automatic MOC and UIC for target os-control-helper
+[ 80%] Built target os-control-helper_autogen
+[100%] Built target os-control-helper

@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_os_control_center_FILE /home/george/George2_0/OS-Control-Center/build/os_control_center)
+set(__QT_DEPLOY_TARGET_os_control_center_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_os-control-ipc-child_FILE /home/george/George2_0/OS-Control-Center/build/os-control-ipc-child)
+set(__QT_DEPLOY_TARGET_os-control-ipc-child_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_os-control-helper_FILE /home/george/George2_0/OS-Control-Center/build/os-control-helper)
+set(__QT_DEPLOY_TARGET_os-control-helper_TYPE EXECUTABLE)

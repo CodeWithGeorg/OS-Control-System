@@ -1,0 +1,11 @@
+/home/george/George2_0/OS-Control-Center/build-check/CMakeFiles/os_control_center.dir
+/home/george/George2_0/OS-Control-Center/build-check/CMakeFiles/os-control-ipc-child.dir
+/home/george/George2_0/OS-Control-Center/build-check/CMakeFiles/os-control-helper.dir
+/home/george/George2_0/OS-Control-Center/build-check/CMakeFiles/edit_cache.dir
+/home/george/George2_0/OS-Control-Center/build-check/CMakeFiles/rebuild_cache.dir
+/home/george/George2_0/OS-Control-Center/build-check/CMakeFiles/os_control_center_autogen_timestamp_deps.dir
+/home/george/George2_0/OS-Control-Center/build-check/CMakeFiles/os_control_center_autogen.dir
+/home/george/George2_0/OS-Control-Center/build-check/CMakeFiles/os-control-ipc-child_autogen_timestamp_deps.dir
+/home/george/George2_0/OS-Control-Center/build-check/CMakeFiles/os-control-ipc-child_autogen.dir
+/home/george/George2_0/OS-Control-Center/build-check/CMakeFiles/os-control-helper_autogen_timestamp_deps.dir
+/home/george/George2_0/OS-Control-Center/build-check/CMakeFiles/os-control-helper_autogen.dir

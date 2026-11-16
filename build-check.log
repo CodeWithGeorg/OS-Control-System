@@ -1,0 +1,46 @@
+-- The CXX compiler identification is GNU 16.2.0
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Performing Test HAVE_STDATOMIC
+-- Performing Test HAVE_STDATOMIC - Success
+-- Found WrapAtomic: TRUE
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so
+-- Found WrapOpenGL: TRUE
+-- Found WrapVulkanHeaders: /usr/include
+-- Configuring done (1.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/george/George2_0/OS-Control-Center/build-check
+[  0%] Built target os_control_center_autogen_timestamp_deps
+[  4%] Automatic MOC and UIC for target os_control_center
+[  4%] Built target os_control_center_autogen
+[  9%] Building CXX object CMakeFiles/os_control_center.dir/os_control_center_autogen/mocs_compilation.cpp.o
+[ 13%] Building CXX object CMakeFiles/os_control_center.dir/main.cpp.o
+[ 18%] Building CXX object CMakeFiles/os_control_center.dir/MainWindow.cpp.o
+[ 22%] Building CXX object CMakeFiles/os_control_center.dir/process/ProcessManager.cpp.o
+[ 27%] Building CXX object CMakeFiles/os_control_center.dir/memory/MemoryManager.cpp.o
+[ 31%] Building CXX object CMakeFiles/os_control_center.dir/io/IOManager.cpp.o
+[ 36%] Building CXX object CMakeFiles/os_control_center.dir/files/FileManager.cpp.o
+[ 40%] Building CXX object CMakeFiles/os_control_center.dir/ipc/IPCManager.cpp.o
+[ 45%] Building CXX object CMakeFiles/os_control_center.dir/dashboard/Dashboard.cpp.o
+[ 50%] Linking CXX executable os_control_center
+[ 54%] Built target os_control_center
+[ 54%] Built target os-control-ipc-child_autogen_timestamp_deps
+[ 59%] Automatic MOC and UIC for target os-control-ipc-child
+[ 59%] Built target os-control-ipc-child_autogen
+[ 63%] Building CXX object CMakeFiles/os-control-ipc-child.dir/os-control-ipc-child_autogen/mocs_compilation.cpp.o
+[ 68%] Building CXX object CMakeFiles/os-control-ipc-child.dir/ipc/IPCChild.cpp.o
+[ 72%] Linking CXX executable os-control-ipc-child
+[ 77%] Built target os-control-ipc-child
+[ 77%] Built target os-control-helper_autogen_timestamp_deps
+[ 81%] Automatic MOC and UIC for target os-control-helper
+[ 81%] Built target os-control-helper_autogen
+[ 86%] Building CXX object CMakeFiles/os-control-helper.dir/os-control-helper_autogen/mocs_compilation.cpp.o
+[ 90%] Building CXX object CMakeFiles/os-control-helper.dir/privileged/PrivilegedHelper.cpp.o
+[ 95%] Linking CXX executable os-control-helper
+[100%] Built target os-control-helper
